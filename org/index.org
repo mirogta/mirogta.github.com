@@ -1,0 +1,14 @@
+#+TITLE: Miroslav Sommer
+#+AUTHOR: mirogta
+#+EMAIL: miroslav.sommer+github@gmail.com
+#+OPTIONS: H:3 num:nil toc:nil
+#+OPTIONS: html-scripts:t html-style:t
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" href="css/style.css">
+#+HTML_CONTAINER: div
+
+* Projects
+
+** [[http://mirogta.github.io/meeting-ticker/][Meeting Ticker]]
+   A simple in-browser timer.
+   [[http://github.com/mirogta/meeting-ticker][(source)]]
